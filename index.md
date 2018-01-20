@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[地震重力数据平差](https://steveshichen.github.io/bayadj/).
+
+[三维重力反演](https://steveshichen.github.io/gravinv/).
 
 There should be whitespace between paragraphs.
 
